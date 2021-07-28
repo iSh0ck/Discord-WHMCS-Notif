@@ -14,6 +14,7 @@
   - Program.cs
 - In Discord.cs you will need to update the differents ID of channels & server
 - In Program.cs you will need to update the differents ID of group permission to get notified
+- You can search (CTRL+F) for "SearchMe_" and you can edit credentials at these places
 
 ### Dotnet & Linux
 I'm using this bot on Linux so i will explain you how you can install .NET on Linux (Debian 10)
